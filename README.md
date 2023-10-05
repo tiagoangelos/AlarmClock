@@ -9,4 +9,4 @@ usada para para executar as aplicações da plataforma Java. <a href="https://ww
 
 ## Usar:
 
-Se deseja apenas usar essa aplicação então baixe apenas o instalador <a href="https://github.com/jtas20/ShutdownTimer/blob/main/Alarm-Clock-Installer.exe">'Alarm-Clock-Installer.exe'</a>.
+Se deseja apenas usar essa aplicação então baixe apenas o instalador <a href="https://github.com/jtas20/AlarmClock/blob/main/Alarm-Clock-Installer.exe">'Alarm-Clock-Installer.exe'</a>.
