@@ -1,6 +1,6 @@
 # Alarm Clock 2.0
 
-<img src="./design/front-end/front-end.png"></img>
+<img src="./design/Front-End/Front-End.png"></img>
 
 ## Requisitos: 
 
