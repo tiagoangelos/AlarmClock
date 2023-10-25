@@ -1,6 +1,6 @@
-# Alarm Clock 1.0
+# Alarm Clock 2.0
 
-<img src="./design/Front-End/Front-End.png"></img>
+<img src="./design/front-end/front-end.png"></img>
 
 ## Requisitos: 
 
@@ -9,4 +9,4 @@ usada para para executar as aplicações da plataforma Java. <a href="https://ww
 
 ## Usar:
 
-Se deseja apenas usar essa aplicação então baixe apenas o instalador <a href="https://github.com/jtas20/AlarmClock/blob/main/Alarm-Clock-Installer.exe">'Alarm-Clock-Installer.exe'</a>.
+Se deseja apenas usar essa aplicação então baixe apenas o instalador <a href="https://github.com/jtas22/AlarmClock/blob/main/AlarmClock-V.20-Setup.exe">'AlarmClock-V.20-Setup.exe'</a>.
